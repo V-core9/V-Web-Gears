@@ -1,1 +1,1 @@
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/87b6e7843a57487b994bf9cfbce377ea)](https://www.codacy.com/gh/V-core9/V_WebGears/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=V-core9/V_WebGears&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/87b6e7843a57487b994bf9cfbce377ea)](https://www.codacy.com/gh/V-core9/V-Web-Gears/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=V-core9/V-Web-Gears&amp;utm_campaign=Badge_Grade)
