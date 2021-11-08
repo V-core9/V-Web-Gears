@@ -5,7 +5,7 @@
   "bin": {
     "v_wg": "./bin/run"
   },
-  "bugs": "https://github.com/V-core9/v_webgears/issues",
+  "bugs": "https://github.com/V-core9/v-web-gears/issues",
   "devDependencies": {
     "@oclif/dev-cli": "^1.26.0",
     "@oclif/test": "^1.2.8",
@@ -26,7 +26,7 @@
     "/oclif.manifest.json",
     "/src"
   ],
-  "homepage": "https://github.com/V-core9/v_webgears",
+  "homepage": "https://github.com/V-core9/v-web-gears",
   "keywords": [
     "oclif"
   ],
@@ -39,7 +39,7 @@
       "@oclif/plugin-help"
     ]
   },
-  "repository": "V-core9/v_webgears",
+  "repository": "V-core9/v-web-gears",
   "scripts": {
     "postpack": "rimraf oclif.manifest.json",
     "posttest": "eslint .",

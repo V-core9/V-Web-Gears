@@ -6,7 +6,7 @@ v_wg
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
 [![Version](https://img.shields.io/npm/v/v_wg.svg)](https://npmjs.org/package/v_wg)
 [![Downloads/week](https://img.shields.io/npm/dw/v_wg.svg)](https://npmjs.org/package/v_wg)
-[![License](https://img.shields.io/npm/l/v_wg.svg)](https://github.com/V-core9/v_webgears/blob/master/package.json)
+[![License](https://img.shields.io/npm/l/v_wg.svg)](https://github.com/V-core9/v-web-gears/blob/master/package.json)
 
 <!-- toc -->
 * [Usage](#usage)
@@ -28,8 +28,11 @@ USAGE
 <!-- usagestop -->
 # Commands
 <!-- commands -->
-* [`v_wg hello`](#v_wg-hello)
-* [`v_wg help [COMMAND]`](#v_wg-help-command)
+- [v_wg](#v_wg)
+- [Usage](#usage)
+- [Commands](#commands)
+  - [`v_wg hello`](#v_wg-hello)
+  - [`v_wg help [COMMAND]`](#v_wg-help-command)
 
 ## `v_wg hello`
 
@@ -47,7 +50,7 @@ DESCRIPTION
   Extra documentation goes here
 ```
 
-_See code: [src/commands/hello.js](https://github.com/V-core9/v_webgears/blob/v1.0.1/src/commands/hello.js)_
+_See code: [src/commands/hello.js](https://github.com/V-core9/v-web-gears/blob/v1.0.1/src/commands/hello.js)_
 
 ## `v_wg help [COMMAND]`
 

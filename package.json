@@ -1,5 +1,5 @@
 {
-  "name": "v_webgears",
+  "name": "v-web-gears",
   "version": "1.0.0",
   "description": "NPM Module that contains bunch of smaller ones to help with development process 🚀",
   "main": "index.js",
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/V-core9/V_WebGears.git"
+    "url": "git+https://github.com/V-core9/V-Web-Gears.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/V-core9/V_WebGears/issues"
+    "url": "https://github.com/V-core9/V-Web-Gears/issues"
   },
-  "homepage": "https://github.com/V-core9/V_WebGears#readme"
+  "homepage": "https://github.com/V-core9/V-Web-Gears#readme"
 }
